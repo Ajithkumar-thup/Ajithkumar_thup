@@ -4,7 +4,7 @@
 🔐 Interested in Ethical Hacking & Web Technologies
 [<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">]
                                                 
-- 🌱 I’m Currently learning Artificial Intelligence and  Digital Marketing.
+- 🌱 I’m Currently learning Artificial Intelligence.
 - ⚡📈 I am looking for help with internships, placements, and FAANG opportunities. 
 - 👯 I’m looking to collaborate on open-source and beginner-friendly projects.
 - 🤔 I’m looking for help with advanced programming concepts and best practices.  
