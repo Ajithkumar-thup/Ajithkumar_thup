@@ -36,14 +36,10 @@
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
 <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Status 
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajithkumar-thup&theme=dark&hide_border=false&count_private=true)
-
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajithkumar-thup)](https://github.com/Ajithkumar-thup/github-readme-stats)
 
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Ajithkumar-thup&theme=dark&hide_border=false)
