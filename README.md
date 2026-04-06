@@ -34,4 +34,4 @@
 ![Snake animation](https://github.com/AjithKumar-Tech-Hups1/AjithKumar-Tech-Hups1/blob/output/github-snake-dark.svg)
 
 
-[![Ajith kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AjithKumar-Tech-Hups1&bg_color=000000&color=005fcc&line=2706cb&point=f00000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ajith kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajithkumar-thup&bg_color=000000&color=005fcc&line=2706cb&point=f00000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
