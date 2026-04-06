@@ -25,13 +25,13 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjithKumar-Tech-Hups1&theme=dark&hide_border=false&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajithkumar-thup&theme=dark&hide_border=false&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AjithKumar-Tech-Hups1&theme=dark&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Ajithkumar-thup&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjithKumar-Tech-Hups1&theme=dark&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajithkumar-thup&theme=dark&hide_border=false&layout=compact)
 
-![Snake animation](https://github.com/AjithKumar-Tech-Hups1/AjithKumar-Tech-Hups1/blob/output/github-snake-dark.svg)
+![Snake animation](https://github.com/Ajithkumar-thup/Ajithkumar-thup/blob/output/github-snake-dark.svg)
 
 
 [![Ajith kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajithkumar-thup&bg_color=000000&color=005fcc&line=2706cb&point=f00000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
